@@ -27,7 +27,7 @@ const Dashboard = props => {
               <div>
                 <h4 className={classes.cardTitle}>Conference Rooms</h4>
                 <p className={classes.cardCategoryBlue}>
-                    November 3rd, 2020
+                    November 4th, 2020
                 </p>
               </div>
               <div className="dashboardLogo"></div>
